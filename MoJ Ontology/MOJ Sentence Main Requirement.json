@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"T","endColumn":"U","startRow":"2","endRow":"71","comment":"","rule":"Individual: @T*(rdfs:label\u003dmm:prepend(\"SRM-\"))\nTypes: SentenceMainRequirement\nFacts:\thasSentenceMainRequirementCode @T*(rdfs:label\u003dmm:prepend(\"SRM-\")),\n\thasSentenceMainRequirement @U*","active":true}]}

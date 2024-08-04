@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AN","endColumn":"AO","startRow":"2","endRow":"18","comment":"","rule":"Individual: @AN*(rdfs:label\u003dmm:prepend(\"RP-\"))\nTypes: RehabilitationProgramme\nFacts:\thasRehabilitationProgrammeCode @AN*(rdfs:label\u003dmm:prepend(\"RP-\")),\n\thasRehabilitationProgramme @AO*","active":true}]}

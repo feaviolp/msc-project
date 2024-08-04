@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AH","endColumn":"AI","startRow":"2","endRow":"38","comment":"","rule":"Individual: @AH*(rdfs:label\u003dmm:prepend(\"BOD-\"))\nTypes: BreachOfPrisonDiscipline\nFacts:\thasBreachOfPrisonDisciplineCode @AH*(rdfs:label\u003dmm:prepend(\"BOD-\")),\n\thasBreachOfPrisonDiscipline @AI*","active":true}]}

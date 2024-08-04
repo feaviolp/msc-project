@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AB","endColumn":"AC","startRow":"2","endRow":"5","comment":"","rule":"Individual: @AB*(rdfs:label\u003dmm:prepend(\"PSSM-\"))\nTypes: PSSMainRequirement\nFacts:\thasPSSMainRequirementCode @AB*(rdfs:label\u003dmm:prepend(\"PSSM-\")),\n\thasPSSMainRequirement @AC*","active":true}]}
