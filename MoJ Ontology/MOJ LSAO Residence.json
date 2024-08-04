@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AF","endColumn":"AG","startRow":"2","endRow":"35673","comment":"","rule":"Individual: @AF*(rdfs:label\u003dmm:prepend(\"LSOA-\"))\nTypes: LSOAResidence\nFacts:\thasLSOAResidenceCode @AF*(rdfs:label\u003dmm:prepend(\"LSOA-\")),\n\thasLSOAResidence @AG*","active":true}]}

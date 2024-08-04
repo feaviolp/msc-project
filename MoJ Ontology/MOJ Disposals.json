@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"P","endColumn":"Q","startRow":"2","endRow":"208","comment":"","rule":"Individual: @P*(rdfs:label\u003dmm:prepend(\"Dis-\"))\nTypes: Disposal\nFacts:\thasDisposalCode @P*(rdfs:label\u003dmm:prepend(\"Dis-\")),\n\thasDisposal @Q*","active":true}]}

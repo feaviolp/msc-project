@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"R","endColumn":"S","startRow":"2","endRow":"209","comment":"","rule":"Individual: @R*(rdfs:label\u003dmm:prepend(\"PA-\"))\nTypes: ProbationArea\nFacts:\thasProbationAreaCode @R*(rdfs:label\u003dmm:prepend(\"PA-\")),\n\thasProbationArea @S*","active":true}]}

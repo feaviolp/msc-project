@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AJ","endColumn":"AK","startRow":"2","endRow":"7","comment":"","rule":"Individual: @AJ*(rdfs:label\u003dmm:prepend(\"DBS-\"))\nTypes: DisciplineBreachSanction\nFacts:\thasDisciplineBreachSanctionCode @AJ*(rdfs:label\u003dmm:prepend(\"DBS-\")),\n\thasDisciplineBreachSanction @AK*","active":true}]}

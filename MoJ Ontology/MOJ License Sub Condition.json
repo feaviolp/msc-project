@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"Z","endColumn":"AA","startRow":"2","endRow":"209","comment":"","rule":"Individual: @Z*(rdfs:label\u003dmm:prepend(\"LCS-\"))\nTypes: LicenceSubCondition\nFacts:\thasLicenceSubConditionCode @Z*(rdfs:label\u003dmm:prepend(\"LCS-\")),\n\thasLicenceSubCondition @AA*","active":true}]}

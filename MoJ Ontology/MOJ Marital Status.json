@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"D","endColumn":"E","startRow":"2","endRow":"8","comment":"","rule":"Individual: @D*(rdfs:label\u003dmm:prepend(\"MS-\"))\nTypes: MaritalStatus\nFacts:\thasMaritalStatusCode @D*(rdfs:label\u003dmm:prepend(\"MS-\")),\n\thasMaritalStatus @E*","active":true}]}

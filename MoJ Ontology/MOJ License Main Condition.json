@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"X","endColumn":"Y","startRow":"2","endRow":"55","comment":"","rule":"Individual: @X*(rdfs:label\u003dmm:prepend(\"LCM-\"))\nTypes: LicenceMainCondition\nFacts:\thasLicenceMainConditionCode @X*(rdfs:label\u003dmm:prepend(\"LCM-\")),\n\thasLicenceMainCondition @Y*","active":true}]}

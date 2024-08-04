@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"AL","endColumn":"AM","startRow":"2","endRow":"10","comment":"","rule":"Individual: @AL*(rdfs:label\u003dmm:prepend(\"PW-\"))\nTypes: PrisonWork\nFacts:\thasPrisonWorkCode @AL*(rdfs:label\u003dmm:prepend(\"PW-\")),\n\thasPrisonWork @AM*","active":true}]}

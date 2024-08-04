@@ -1,0 +1,1 @@
+{"Collections":[{"sheetName":"Sheet1","startColumn":"J","endColumn":"K","startRow":"2","endRow":"78","comment":"","rule":"Individual: @J*(rdfs:label\u003dmm:prepend(\"CC-\"))\nTypes: CrownCourt\nFacts:\thasCourtCode @J*(rdfs:label\u003dmm:prepend(\"CC-\")),\n\thasCourt @K*","active":true}]}
